@@ -105,7 +105,7 @@ CREATE TABLE product_image (
 
 -- Sample data for product images
 INSERT INTO product_image (product_item_id, image_url) VALUES
-(1, 'https://example.com/images/tshirt-red-s.jpg'),
+(1, 'https://unsplash.com/photos/a-cozy-kitchen-with-cooking-utensils-eNBXKqj-88M'),
 (2, 'https://example.com/images/iphone14.jpg'),
 (3, 'https://example.com/images/shoes-blue-42.jpg');
 
