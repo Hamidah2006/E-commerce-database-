@@ -106,8 +106,8 @@ CREATE TABLE product_image (
 -- Sample data for product images
 INSERT INTO product_image (product_item_id, image_url) VALUES
 (1, 'https://unsplash.com/photos/a-cozy-kitchen-with-cooking-utensils-eNBXKqj-88M'),
-(2, 'https://example.com/images/iphone14.jpg'),
-(3, 'https://example.com/images/shoes-blue-42.jpg');
+(2, 'https://unsplash.com/photos/a-white-tote-bag-hangs-on-a-door-HWFk12pSL60'),
+(3, 'https://unsplash.com/photos/a-framed-artwork-with-dried-flowers-and-leaves-9wpLwUm4KOo');
 
 --create table product_variation
 CREATE TABLE product_variation (
